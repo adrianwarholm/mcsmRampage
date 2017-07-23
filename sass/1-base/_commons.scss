@@ -1,0 +1,12 @@
+.bold {
+     font-weight: $bold;
+}
+
+.search-box {
+     @include border-top-radius(5px);
+     @include border-right-radius(5px);
+     @include border-bottom-radius(5px);
+     @include border-left-radius(5px);
+     width: 100%;
+     min-height: 50px;
+}
