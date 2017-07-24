@@ -1,0 +1,24 @@
+#mainbar {
+     .article-image {
+          text-align: center;
+          height: 100%;
+     }
+     .thumbnail {
+          display: inline-block;
+          height: 100%;
+          width: 100%;
+     }
+     .main-image {
+          background-image: url("https://www.hdwallpapers.net/previews/yacht-sailing-downwind-at-sunset-900.jpg");
+          height: 100%;
+          width: 100%;
+          background: center center;
+          //background-repeat: no-repeat;
+          background-size: cover;
+     }
+     height: 100%;
+}
+
+.main-article {
+     height: 100%;
+}

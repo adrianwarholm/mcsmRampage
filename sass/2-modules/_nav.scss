@@ -17,8 +17,8 @@
           font-weight: 800;
           color: gray;
      }
-     @include padding(15px 0px 5px 10px);
-     @include margin(0px 0px 0px 0px);
+     @include padding(10px 0px 5px 10px);
+     @include margin(-3px 0px 0px 0px);
 }
 
 .nav-pills {
